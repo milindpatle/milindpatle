@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning DevOps with AWS from iNeuron and <br>Full Stack Web Development .<br>
+I'm currently learning PGDAC-Course at CDAC<br>
 
 
 ## 🌐 Socials:
